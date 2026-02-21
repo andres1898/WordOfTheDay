@@ -1,0 +1,16 @@
+<resources>
+    <string name="new_word">Get a word</string>
+    <string name="app_name">WordOfTheDay</string>
+    <string name="word_1">Ineffable</string>
+    <string name="word_1_meaning">(adj) too great to be expressed in words.</string>
+    <string name="word_2">Euphoria</string>
+    <string name="word_2_meaning">(n) a feeling or state of intense excitement and happiness.</string>
+    <string name="word_3">Sonorous</string>
+    <string name="word_3_meaning">(adj) An imposingly deep and full sound.</string>
+    <string name="word_4">Eloquence</string>
+    <string name="word_4_meaning">(n) the art of using language in an apt, fluent way.</string>
+    <string name="word_5">Bombinate</string>
+    <string name="word_5_meaning">(v) To make a humming or buzzing noise.</string>
+    <string name="word_6">Petrichor</string>
+    <string name="word_6_meaning">(n) The pleasant, earthy smell after rain.</string>
+</resources>
